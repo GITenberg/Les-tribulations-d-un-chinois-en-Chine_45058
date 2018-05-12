@@ -34,6 +34,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45058#Les-tribulations-d-un-chinois-en-Chine
 gutenberg_bookshelf:
 - FR Littérature
 - FR Illustrateurs
